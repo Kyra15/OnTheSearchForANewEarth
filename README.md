@@ -1,8 +1,8 @@
 # Astro9
 
-Final Project - On the Search for a New Earth
+Final Project for UC Berkeley ASTRO 9 LEC 002 (Python for Astrophysics Research) - On the Search for a New Earth
 
-Instructions to run: 
+## Instructions to run: 
 
 Download all files and folders
 
